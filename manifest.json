@@ -1,0 +1,46 @@
+{
+    "name": "My Music Application",
+    "short_name": "Music App",
+    "description": "An app to keep a list of songs and artists",
+    "start_url": "/",
+    "id": "/",
+    "display":"standalone",
+    "theme_color":"#e1e1e2",
+    "background_color":"#e1e1e2",
+    "orientation": "any",
+  "icons": [
+    {
+      "src": "/icon/manifest-icon-192.maskable.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon/manifest-icon-192.maskable.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/icon/manifest-icon-512.maskable.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon/manifest-icon-512.maskable.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/icons/android-chrome-256x256.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    }, {
+        "src": "/icons/android-chrome-192x192.png",
+        "sizes": "192x192",
+        "type": "image/png"
+    }
+  ]
+}
